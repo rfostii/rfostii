@@ -1,5 +1,5 @@
 # Hi, I’m Ruslan Fostii 👋
-**Senior Software Engineer at Booking.com**
+**Senior Software Engineer**
 
 I’m a software engineer with 12 years of experience, specializing in **refactoring and modernizing complex systems** used by many users.  
 I focus on **long-term stability, maintainability, and sustainable solutions**, helping teams build reliable and scalable software.
