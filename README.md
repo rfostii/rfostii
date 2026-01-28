@@ -25,7 +25,7 @@ I like to **understand how systems work as a whole**, instead of focusing on iso
 ### **Senior Frontend Developer** — Booking.com  
 *Mar 2022 – Present · Amsterdam, Netherlands*
 
-- Responsible for **modernization and stable operation** of a platform used by **30+ teams**
+- Responsible for **modernization and stable operation** of a distributed platform used by **30+ teams**
 - Plan and coordinate **system migrations and upgrades**
 - Advise teams and ensure the platform evolves in the right direction **without downtime**
 - Mentor engineers at **Middle level and above**
@@ -85,10 +85,12 @@ I like to **understand how systems work as a whole**, instead of focusing on iso
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green?style=flat-square)
+![React](https://img.shields.io/badge/React-17.0.0-lightblue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-16+-lightgreen?style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest-testing-red?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-pipelines-blueviolet?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-version_control-red?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=kubernetes)
 
 and many others tools I don't even remember now
 
