@@ -25,7 +25,8 @@ I like to **understand how systems work as a whole**, instead of focusing on iso
 ### **Senior Frontend Developer** — Booking.com  
 *Mar 2022 – Present · Amsterdam, Netherlands*
 
-- Responsible for **modernization and stable operation** of a distributed platform used by **30+ teams**
+- Responsible for **modernization and stable operation** of a distributed platform used by **40+ teams**
+- Optimize engineering workflows, including code review processes across approximately **40+ teams**.
 - Plan and coordinate **system migrations and upgrades**
 - Advise teams and ensure the platform evolves in the right direction **without downtime**
 - Mentor engineers at **Middle level and above**
